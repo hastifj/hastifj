@@ -1,4 +1,5 @@
-Hi there! 👋 I'm hasti
+Hi there!
+👋 I'm hasti
 🌱 Aspiring Developer | 🚀 Learning and Growing Every Day
 Welcome to my GitHub profile! I'm currently on an exciting journey to become a skilled developer. I've completed courses in Python, JavaScript, and HTML, and I'm now diving deeper into Django to build powerful web applications.
 
